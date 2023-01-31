@@ -1,0 +1,5 @@
+{
+  "serverPort": 3200,
+  "dbUrl": "mongodb+srv://admin:admin@cloud.lozrygv.mongodb.net/?retryWrites=true&w=majority",
+  "filePath": "C:\\Users\\PC\\save-video-to-storage\\server\\files"
+}

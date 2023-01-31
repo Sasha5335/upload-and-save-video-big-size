@@ -1,0 +1,21 @@
+{
+  "name": "file-upload",
+  "author": "Petr Vecera - pagep.net",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "config": "^3.3.9",
+    "connect-busboy": "^0.0.2",
+    "express": "^4.16.3",
+    "fs-extra": "^5.0.0",
+    "mongoose": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
